@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;8d0b8c2ca484bba9be3714e13615f212",
+  "spider": "./jar/fan.txt;md5;c067633ea703159709d6c4e522c3dae5",
   "lives": [
     {"name": "migu","type": 0,"url": "https://develop202.github.io/migu_video/interface.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
     {"name": "live","type": 0,"url": "https://epg.pw/test_channels.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
